@@ -1,3 +1,3 @@
 # userLogin
 
-this is a login form built with html and css 
+this is a login form built with html and jquery
