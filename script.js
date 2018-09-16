@@ -6,8 +6,8 @@ $('body').css({"background-color": "#964f8e",
 
 $('fieldset').css({"background-color": "white",
 					"width": "600px",
-					"margin-top": "200px",
-					"margin-left": "300px"});
+					"margin-top": "auto"
+					});
 
 $('h1').css("text-aligin","center");
 
